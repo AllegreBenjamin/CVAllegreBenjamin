@@ -12,11 +12,11 @@ class Logo {
     static displayListLogo(logos){
     
         logos.forEach(logo => {
-            let html = `<article id="${logo.id}" class="article col-lg-4">
-                <h5>${logo.titre}</h5>
-                <div class="row">
+            let html = `<article id="${logo.id}" class="article col-lg-3 rounded mt-2 ms-5 me-5">
+                <h5 class="text-center mt-2">${logo.titre}</h5>
+                <div class="row mb-2">
                     <div class="col-lg-1"></div>
-                    <div class="col-lg-10"> 
+                    <div class="col-lg-10 text-center"> 
                         <img src="fichiers/${logo.miniature}" alt="visuel du logo ${logo.titre}">
                     </div>
                     <div class="col-lg-1"></div>

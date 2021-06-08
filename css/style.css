@@ -9,7 +9,7 @@ header, footer, main h1{
 	border: 1px solid rgba(19,104,32,0.38);
 }
 
-.competences h2, .projetsList h2, .projetsPersoList h2, .logoList h2 {
+h2 {
 	border-bottom: solid rgba(19,104,32,0.38);
 }
 
