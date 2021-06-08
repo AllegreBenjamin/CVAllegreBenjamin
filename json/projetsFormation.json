@@ -1,0 +1,450 @@
+[
+	{
+		"id":0,
+		"titre": "Définissez votre stratégie d'apprentissage",
+		"desc": "L’objectif de ce premier projet est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle ! ",
+		"date": "vendredi 6 décembre 2019",
+		"livrable": "BA_P1/BA_P1.zip",
+		"zip_0" : "",
+		"pdf_0" : "BA_P1/P1_01_objectifsapprentissage.pdf",
+		"pdf_1" : "BA_P1/P1_02_CV.pdf",
+		"pdf_2" : "BA_P1/P1_03_profilLinkedln.pdf",
+		"pdf_3" : "BA_P1/P1_04_articleJournalApprentissage.pdf",
+		"pdf_0_hover" : "fichiers/hover/P1_01_objectifsapprentissage.png",
+		"pdf_1_hover" : "fichiers/hover/P1_02_CV.png",
+		"pdf_2_hover" : "fichiers/hover/P1_03_profilLinkedln.png",
+		"pdf_3_hover" : "fichiers/hover/P1_04_articleJournalApprentissage.png",
+		"png_0" : "",
+		"png_1" : "",
+		"png_2" : "",
+		"png_3" : "",
+		"js_0" : "",
+		"js_1" : "",
+		"sql_0" : "",
+		"video": "https://www.youtube.com/embed/vJoAQELo3zM",
+		"site": "",
+		"evaluation": [
+			{
+				"sujet": "1. Évaluation globale du travail réalisé par l’étudiant :",
+				"comment": "Travail de bonne qualité correspond aux attentes."
+			},
+			{
+				"sujet": "2. Évaluation des livrables selon les critères du projet :",
+				"comment": "Tous les livrables sont présents et correspondent aux attentes, un détail particulier a été porté au vocabulaire"
+			},
+			{
+				"sujet": "3. Évaluation de la présentation orale et sa conformité aux attentes :",
+				"comment": "La présentation est bien structurée. Le stress est bien géré et ne dérange pas la bonne compréhension de la présentation."
+			},
+			{
+				"sujet": "4. Évaluation des nouvelles compétences acquises par l'étudiant :",
+				"comment": "Le projet professionnel d'entreprise de développement est ambitieux mais solide et atteignable. N'hésitez pas à être encore plus précis en ajoutant des dates prévisionnelles."
+			},
+			{
+				"sujet": "5. Points positifs :",
+				"comment": "Stress bien géré, humilité du besoin d'expériences professionnelles avant de lancer sa propre société"
+			},
+			{
+				"sujet": "6. Axes d'amélioration :",
+				"comment": "L'utilisation d'un support type powerpoint pourrait aider à la présentation, attention à la grammaire et l'orthographe"
+			}
+		]
+	},
+	{
+		"id":1,
+		"titre": "Intégrez un thème Wordpress pour un client",
+		"desc": "Bravo ! Vous venez de vous lancer en tant que développeur freelance et vous avez décroché votre premier contrat. Votre client ? L’agence immobilière “Chalets et caviar” de Courchevel.",
+		"date": "jeudi 20 février 2020",
+		"livrable": "BA_P2/BA_P2.zip",
+		"zip_0" : "BA_P2/code.zip",
+		"pdf_0" : "BA_P2/P2_URL.pdf",
+		"pdf_1" : "BA_P2/P2_DOCUMENTATION.pdf",
+		"pdf_2" : "BA_P2/P2_THEME_CHOISI.pdf",
+		"pdf_3" : "",
+		"pdf_0_hover" : "fichiers/hover/P2_URL.png",
+		"pdf_1_hover" : "fichiers/hover/P2_DOCUMENTATION.png",
+		"pdf_2_hover" : "fichiers/hover/P2_THEME_CHOISI.png",
+		"pdf_3_hover" : "",
+		"png_0" : "",
+		"png_1" : "",
+		"png_2" : "",
+		"png_3" : "",
+		"js_0" : "",
+		"js_1" : "",
+		"sql_0" : "",
+		"video": "https://www.youtube.com/embed/IUJLjOq9FrA",
+		"site": "",
+		"evaluation": [
+			{
+				"sujet": "1. Évaluation globale du travail réalisé par l’étudiant  :",
+				"comment": "L'ensemble des critères du projet sont respecté et nous avons des petit plus en terme de référencement et rgpd."
+			},
+			{
+				"sujet": "2. Évaluation des livrables selon les critères du projet :",
+				"comment": "Livrables pro respectant les demandes du client"
+			},
+			{
+				"sujet": "3. Évaluation de la présentation orale et sa conformité aux attentes :",
+				"comment": "Timing trop court il faut faire attention sur les prochaines soutenances. Un peu stressé n'hesite pas a t'entrainer davatange car c'est a force de faire des présentations que tu ne le sera plus."
+			},
+			{
+				"sujet": "4. Évaluation des nouvelles compétences acquises par l'étudiant :",
+				"comment": "Comprendre les besoins d'un client. Réaliser un site wordpress. Présenter un site a un client"
+			},
+			{
+				"sujet": "5. Points positifs :",
+				"comment": "Bandeau cookies. Gestion simple pour le client. SEO."
+			},
+			{
+				"sujet": "6. Axes d'amélioration :",
+				"comment": "Ajout de sécurités notamment pour le wp-admin. Theme enfant. Le design pourrait encore etre amélioré pour le secteur du luxe. Timing de présentation trop court."
+			}
+		]
+	},
+	{
+		"id":2,
+		"titre": "Analysez les besoins de votre client pour son festival de films",
+		"desc": "Jennifer Edwards est l'organisatrice du festival des Films de Plein Air. Elle ambitionne de sélectionner et de projeter des films d'auteur en plein air du 5 au 8 août au parc Monceau à Paris.",
+		"date": "mercredi 8 avril 2020",
+		"livrable": "BA_P3/BA_P3.zip",
+		"zip_0" : "BA_P2/PFILM_02_codesource.zip",
+		"pdf_0" : "BA_P2/PFILM_01_spécificationtechnique.pdf",
+		"pdf_1" : "",
+		"pdf_2" : "",
+		"pdf_3" : "",
+		"pdf_0_hover" : "fichiers/hover/PFILM_01_spécificationtechnique.png",
+		"pdf_1_hover" : "",
+		"pdf_2_hover" : "",
+		"pdf_3_hover" : "",
+		"png_0" : "",
+		"png_1" : "",
+		"png_2" : "",
+		"png_3" : "",
+		"js_0" : "",
+		"js_1" : "",
+		"sql_0" : "",
+		"video": "https://www.youtube.com/embed/c0ID9Vaqjws",
+		"site": "",
+		"evaluation": [
+			{
+				"sujet": "1. Évaluation globale du travail réalisé par l’étudiant (en spécifiant les critères non-validés si le projet est à retravailler) :",
+				"comment": "Bon travail"
+			},
+			{
+				"sujet": "2. Évaluation des livrables selon les critères du projet :",
+				"comment": "Livrables correspondant au travail attendu"
+			},
+			{
+				"sujet": "3. Évaluation de la présentation orale et sa conformité aux attentes :",
+				"comment": "Bonne"
+			},
+			{
+				"sujet": "4. Évaluation des nouvelles compétences acquises par l'étudiant :",
+				"comment": "Création d'une maquette, création d'un cahier des charges"
+			},
+			{
+				"sujet": "5. Points positifs :",
+				"comment": "Projet répond aux critères."
+			},
+			{
+				"sujet": "6. Axes d'amélioration :",
+				"comment": "Le design est un point à travailler sérieusement"
+			}
+		]
+	},
+	{
+		"id":3,
+		"titre": "Concevez la solution technique d'une application de restauration en ligne, ExpressFood",
+		"desc": "Vous venez d'être recruté par la toute jeune startup ExpressFood. Elle ambitionne de livrer des plats de qualité à domicile en moins de 20 minutes grâce à un réseau de livreurs à vélo.",
+		"date": "mercredi 14 mai 2020",
+		"livrable": "BA_P4/BA_P4.zip",
+		"zip_0" : "",
+		"pdf_0" : "BA_P4/P4_01_diagrammes_de_cas_dutilisation.pdf",
+		"pdf_1" : "BA_P4/P4_02_modele_de_donnees.pdf",
+		"pdf_2" : "",
+		"pdf_3" : "",
+		"pdf_0_hover" : "fichiers/hover/P4_01_diagrammes_de_cas_dutilisation.png",
+		"pdf_1_hover" : "fichiers/hover/P4_02_modele_de_donnees.png",
+		"pdf_2_hover" : "",
+		"pdf_3_hover" : "",
+		"png_0" : "BA_P4/P4_03_diagramme_de_classe.png",
+		"png_1" : "BA_P4/P4_04_diagramme_de_sequence_ajout_d_un_plat_du_jour.png",
+		"png_2" : "BA_P4/P4_04_diagramme_de_sequence_creation_d_une_commande.png",
+		"png_3" : "BA_P4/P4_04_diagramme_de_sequence_livraison_d_une_commande.png",
+		"js_0" : "",
+		"js_1" : "",
+		"sql_0" : "BA_P4/P4_05_base_de_donnees.sql",
+		"video": "https://www.youtube.com/embed/qk-DGlUaTJs",
+		"site": "",
+		"evaluation": [
+			{
+				"sujet": "1. Évaluation globale du travail réalisé par l’étudiant (en spécifiant les critères non-validés si le projet est à retravailler) :",
+				"comment": "Benjamin a bien travaillé le projet dans l'ensemble. Les diagrammes sont corrects pour la grande majorité et permettent de bien modéliser l'application d'Express Food."
+			},
+			{
+				"sujet": "2. Évaluation des livrables selon les critères du projet :",
+				"comment": "Les livrables sont complets et fournis dans les délais."
+			},
+			{
+				"sujet": "3. Évaluation de la présentation orale et sa conformité aux attentes :",
+				"comment": "Présentation fluide et professionnelle avec un bon respect du temps imparti."
+			},
+			{
+				"sujet": "4. Évaluation des nouvelles compétences acquises par l'étudiant :",
+				"comment": "Benjamin sait désormais: faire des diagrammes de cas d'utilisation. Faire des diagrammes de séquences. Faire un diagramme de classes et les modèle et base de données associés"
+			},
+			{
+				"sujet": "5. Points positifs :",
+				"comment": "Une bonne organisation de la présentation. Un grand effort fourni pour faire un travail de qualité."
+			},
+			{
+				"sujet": "6. Axes d'amélioration :",
+				"comment": "Mettre Système au lieu de Commande comme missioneur et changerur de statut dans le diagramme de séquences de livraison de commande. Les fichiers de diagramme de classes et MPD sont inversés. S’entrainer avec des requêtes SQL plus poussées."
+			}
+		]
+	},
+	{
+		"id":4,
+		"titre": "Imaginez un générateur de citations",
+		"desc": "vous allez construire un générateur de citations ! Les citations seront construites aléatoirement en assemblant des morceaux de phrase.",
+		"date": "mardi 2 juin 2020",
+		"livrable": "BA_P5/BA_P5.zip",
+		"zip_0" : "BA_P5/P5_02_code_ameliorer.zip",
+		"pdf_0" : "",
+		"pdf_1" : "",
+		"pdf_2" : "",
+		"pdf_3" : "",
+		"pdf_0_hover" : "",
+		"pdf_1_hover" : "",
+		"pdf_2_hover" : "",
+		"pdf_3_hover" : "",
+		"png_0" : "",
+		"png_1" : "",
+		"png_2" : "",
+		"png_3" : "",
+		"js_0" : "BA_P5/P5_01_code.js",
+		"js_1" : "BA_P5/P5_02_code.js",
+		"sql_0" : "",
+		"video": "https://www.youtube.com/embed/8SVGClpBAjU",
+		"site": "",
+		"evaluation": [
+			{
+				"sujet": "1. Évaluation globale du travail réalisé par l’étudiant (en spécifiant les critères non-validés si le projet est à retravailler) :",
+				"comment": "Un bon travail dans son ensemble tant au niveau du rendu, du code que de la présentation"
+			},
+			{
+				"sujet": "2. Évaluation des livrables selon les critères du projet :",
+				"comment": "Des livrables conformes aux attentes. L'application bénéficie d'une petite interface graphique et fonctionne également en mode console. On notera une partie orientée objet (qui aurait pu être un peu plus poussée). On notera également qu'un bel effort a été réalisé sur la documentation du code (mode JSDoc) et le soin en général apporté à ce code (indentation notamment). Attention cependant aux caractères mal encodés"
+			},
+			{
+				"sujet": "3. Évaluation de la présentation orale et sa conformité aux attentes :",
+				"comment": "Une très bonne présentation qui passe en revu le rendu et le code. L'ensemble est maîtrisé et les acquis correspondent bien aux attentes du projet!"
+			},
+			{
+				"sujet": "4. Évaluation des nouvelles compétences acquises par l'étudiant :",
+				"comment": "Concevoir un algorithme pour répondre à un cahier des charges. Mettre en œuvre la syntaxe de JavaScript dans un programme"
+			},
+			{
+				"sujet": "5. Points positifs :",
+				"comment": "La mise en place d'une petite interface graphique (pour les choix). Un code bien commenté, bien indenté. Commentaires formatés pour JSDoc"
+			},
+			{
+				"sujet": "6. Axes d'amélioration :",
+				"comment": "Attention aux caractères mal encodés dans le code. Génération des citations dans l'interface directement plutôt que de passer par la console"
+			}
+		]
+	},
+	{
+		"id":5,
+		"titre": "Créez un jeu de plateau tour par tour en JS",
+		"desc": "Vous avez jusqu'ici développé des petites applications JavaScript. Il faut maintenant vous lancer dans la création d'un projet plus complet, plus solide... bref plus costaud.",
+		"date": "lundi 17 août 2020",
+		"livrable": "BA_P6/BA_P6.zip",
+		"zip_0" : "",
+		"pdf_0" : "",
+		"pdf_1" : "",
+		"pdf_2" : "",
+		"pdf_3" : "",
+		"pdf_0_hover" : "",
+		"pdf_1_hover" : "",
+		"pdf_2_hover" : "",
+		"pdf_3_hover" : "",
+		"png_0" : "",
+		"png_1" : "",
+		"png_2" : "",
+		"png_3" : "",
+		"js_0" : "",
+		"js_1" : "",
+		"sql_0" : "",
+		"video": "https://www.youtube.com/embed/fayr1FOrA7k",
+		"site": "",
+		"evaluation": [
+			{
+				"sujet": "1. Concevoir une architecture d'application JavaScript réutilisable :",
+				"comment": "Validé"
+			},
+			{
+				"sujet": "2. Développer une application JavaScript orientée objet :",
+				"comment": "Validé"
+			},
+			{
+				"sujet": "3. Mettre en œuvre la bibliothèque jQuery dans une application web :",
+				"comment": "Validé"
+			},
+			{
+				"sujet": "4. Points forts",
+				"comment": "Mise en place de commentaires de JSDoc. Bon découpage objet"
+			},
+			{
+				"sujet": "5. Axes d'amélioration :",
+				"comment": "Le code aurait pu être 100% orienté objet (à l'exception bien sûr de la méthode on document ready de jQuery, mais qui pourrait se contenter de n'instancier que des objets). Même si JS est permissif, mettre en place une bonne encapsulation en n’appelant jamais directement un attribut d’une classe en dehors de celle-ci mais passer au travers de getters et de setters aurait été intéressant. De la même manière, mettre en oeuvre des conventions de nommage permettant d'identifier les méthodes privées aurait été judicieux"
+			},
+			{
+				"sujet": "6. Remarques :",
+				"comment": "Attention aux caractères mal encodés dans le code. Génération des citations dans l'interface directement plutôt que de passer par la console."
+			}
+		]
+	},
+	{
+		"id":6,
+		"titre": "Lancez votre propre site d'avis de restaurants",
+		"desc": "Vous avez choisi de vous lancer dans le business des avis de restaurants. Votre objectif : créer un service simple et utile qui permet d'avoir des avis sur des restaurants autour de soi.",
+		"date": "lundi 15 mars 2021",
+		"livrable": "BA_P7/BA_P7.zip",
+		"zip_0" : "",
+		"pdf_0" : "",
+		"pdf_1" : "",
+		"pdf_2" : "",
+		"pdf_3" : "",
+		"pdf_0_hover" : "",
+		"pdf_1_hover" : "",
+		"pdf_2_hover" : "",
+		"pdf_3_hover" : "",
+		"png_0" : "",
+		"png_1" : "",
+		"png_2" : "",
+		"png_3" : "",
+		"js_0" : "",
+		"js_1" : "",
+		"sql_0" : "",
+		"video": "https://www.youtube.com/embed/4ONx-qaVgw4",
+		"site": "",
+		"evaluation": [
+			{
+				"sujet": "1. Développer une application JavaScript complète en respectant un cahier des charges :",
+				"comment": "Validé"
+			},
+			{
+				"sujet": "2. Utiliser une API externe en JavaScript :",
+				"comment": "Validé"
+			},
+			{
+				"sujet": "3. Livrable points forts :",
+				"comment": "Validé"
+			},
+			{
+				"sujet": "4. Axes d'amélioration :",
+				"comment": "Travailler le design du site. Attention à l'accessibilité : couleur, police, actions. Saisie des différents éléments concernant l'avis via un formulaire plutôt que via le prompt. Utiliser les templates pour le code html des restaurant (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template). Attention à tester les retours : exemple let img = document.getElementById('img-'+x); img.classList.remove('article-img');"
+			},
+			{
+				"sujet": "5. Soutenance :",
+				"comment": "Dossier qui permet de valider la soutenance, toutefois j'engage l'étudiant à travailler les points de détail et le design afin d'améliorer la première impression de l'examinateur."
+			}
+		]
+	},
+	{
+		"id":7,
+		"titre": "Reprenez et améliorez un projet existant",
+		"desc": "Dans le monde professionnel, on est souvent amené à reprendre un projet existant. Que faire quand vous vous retrouvez avec le code de quelqu'un d'autre ? Comment l'améliorer ? Voilà un savoir-faire qui vous sera très utile au quotidien !",
+		"date": "",
+		"livrable": "",
+		"zip_0" : "",
+		"pdf_0" : "",
+		"pdf_1" : "",
+		"pdf_2" : "",
+		"pdf_3" : "",
+		"pdf_0_hover" : "",
+		"pdf_1_hover" : "",
+		"pdf_2_hover" : "",
+		"pdf_3_hover" : "",
+		"png_0" : "",
+		"png_1" : "",
+		"png_2" : "",
+		"png_3" : "",
+		"js_0" : "",
+		"js_1" : "",
+		"sql_0" : "",
+		"video": "",
+		"site": "",
+		"evaluation": [
+			{
+				"sujet": "",
+				"comment": ""
+			},
+			{
+				"sujet": "",
+				"comment": ""
+			},
+			{
+				"sujet": "",
+				"comment": ""
+			},
+			{
+				"sujet": "",
+				"comment": ""
+			},
+			{
+				"sujet": "",
+				"comment": ""
+			}
+		]
+	},
+	{
+		"id":8,
+		"titre": "Effectuez un stage ou construisez une veille technologique",
+		"desc": "Projet 9 Formation OC",
+		"date": "",
+		"livrable": "",
+		"zip_0" : "",
+		"pdf_0" : "",
+		"pdf_1" : "",
+		"pdf_2" : "",
+		"pdf_3" : "",
+		"pdf_0_hover" : "",
+		"pdf_1_hover" : "",
+		"pdf_2_hover" : "",
+		"pdf_3_hover" : "",
+		"png_0" : "",
+		"png_1" : "",
+		"png_2" : "",
+		"png_3" : "",
+		"js_0" : "",
+		"js_1" : "",
+		"sql_0" : "",
+		"video": "",
+		"site": "",
+		"evaluation": [
+			{
+				"sujet": "",
+				"comment": ""
+			},
+			{
+				"sujet": "",
+				"comment": ""
+			},
+			{
+				"sujet": "",
+				"comment": ""
+			},
+			{
+				"sujet": "",
+				"comment": ""
+			},
+			{
+				"sujet": "",
+				"comment": ""
+			}
+		]
+	}
+	
+]

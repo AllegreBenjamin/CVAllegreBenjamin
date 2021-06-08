@@ -1,0 +1,161 @@
+/* CSS Document */
+
+header, footer, main h1{
+	border: 1px solid rgba(19,104,32,0.38);
+	background-color: rgba(19,104,32,0.38);
+}
+
+.competences h5{
+	border: 1px solid rgba(19,104,32,0.38);
+}
+
+.competences h2, .projetsList h2, .projetsPersoList h2, .logoList h2 {
+	border-bottom: solid rgba(19,104,32,0.38);
+}
+
+.projetsList article, .projetsPersoList article, .logoList article {
+	background-color: rgba(19,104,32,0.10);
+	border: 1px solid rgba(19,104,32,0.38);
+}
+
+.projetsList article:hover, .logoList article:hover, .projetsPersoList article:hover {
+	background-color: rgba(19,104,32,0.38);
+	box-shadow:3px 3px;
+}
+
+#overlay {
+  position: fixed;
+  display: none;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 2;
+  cursor: pointer;
+}
+#ficheProjet {
+  position: relative;
+  margin-top: 50px;
+  margin-left: 53%;
+  color: white;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); }
+
+.articleFiche {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.7);
+  border: 1px solid rgba(19,104,32,0.10);
+  box-shadow: 10px 5px 5px rgba(19,104,32,0.50);
+  margin-right: 15px;
+  padding-right: 20px;
+  padding-bottom: 15px; }
+
+.rs img{
+	width: 100px;
+}
+
+.headerArtFiche {
+	margin: 10px 10px 10px 9px;
+	border: 2px solid rgba(255,165,0,0.50);
+	box-shadow: 2px 2px 0 rgba(255,165,0,0.50);
+}
+.headerArtFiche img {
+	margin-left: 5%;
+	margin-bottom: 10px;
+}
+.fichiers-dll {
+	margin-left: 1%;
+	margin-right: 1%;
+}
+.articleFiche h5 {
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: underline rgba(255,165,0,0.50);
+}
+.video {
+	margin-left: 2%;
+	margin-right: 1%;
+	margin-top: 20px;
+}
+.responsive {
+	width: 200%;
+	height: 315px;
+}
+.pdf, .download, .png, .js, .sql {
+	width: 20%;
+	height: 50px;
+}
+.mainFicheLogo {
+	padding: 0 3% 0 3%;
+}
+.mainFicheLogo img{
+	width: 100%;
+}
+.bulle {
+	position:relative;
+	
+}
+.bulle:hover{
+	background: none;
+	z-index: 50;
+}
+.bulle span {
+	display: none;
+}
+.bulle:hover span {
+	display: block;
+	position: absolute;
+	top: -40px; 
+	left: 0px; 
+	font-family:arial, verdana, sans-serif;
+	text-align:left;
+	font-size:17px;
+	color:black;
+	font-weight:normal;
+	width:200px;
+	background: white;
+	padding: 5px;
+	box-shadow:10px 15px 10px white;
+	border:  rgba(19,104,32,0.10) solid 1px ;
+	text-indent: 0;
+	}
+.bulle-image:hover, .bulle-logo:hover{
+	background: none;
+	z-index: 50;
+}
+.bulle-image span {
+	display: none;
+}
+.bulle-image:hover span {
+	display: block;
+	position: absolute;
+	top: 1%; 
+	left: 1%; 
+}
+.bulle-image:hover span img {
+	width: 75%;
+}
+.bulle-logo span{
+	display: none;
+}
+.bulle-logo:hover span {
+
+	background-color: rgba(0, 0, 0, 0.5);
+	display: block;
+	position: absolute;
+	top: 1%; 
+	left: 1%; 
+}
+.bulle-logo:hover span img {
+	width: 75%;
+	margin: 5px 12.5% 5px 5px;
+}
+.btn {
+	margin-top: 150px;
+}
+.carousel {
+	margin-top: 30px;
+}
+
+

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "titre": "Pix-Hell-artdesign-photographe",
+        "miniature" : "BA_L1/miniature.jpg",
+        "desc": "Création d'un logo pour un photographe indépendant. Le travail demandé été assai unique avec des demandes personnelles hors convention. Cela fut une véritable épreuve pour arriver à intégrer toutes les particularités voulues par le client. Voici quelques résultats retenus.",
+        "site": "https://www.pix-hell-artdesign-photographe.fr/",
+        "png_0" : "BA_L1/logo.jpg",
+		"png_1" : "BA_L1/logo_0.png",
+		"png_2" : "BA_L1/logo_1.png",
+		"png_3" : "BA_L1/logo_2.png",
+        "png_4" : "BA_L1/logo_3.png"
+    },
+    {
+        "id": 1,
+        "titre": "The World Of Weed",
+        "miniature" : "BA_L2/miniature.png",
+        "desc": "Création d'un logo pour un jeu par navigateur",
+        "site": "https://www.theworldofweed.fr/index.php?action=homeOffline",
+        "png_0" : "BA_L2/theWorldOfWeed.png",
+        "png_1" : "",
+		"png_2" : "",
+		"png_3" : "",
+        "png_4" : ""
+    },
+    {
+        "id": 2,
+        "titre": "Les Geeks Joyeux",
+        "miniature" : "BA_L3/miniature.png",
+        "desc": "Projet personnel (en dev), regroupe un groupe de personne pour un but commun dans l'informatique.",
+        "site": "",
+        "png_0" : "BA_L3/lesGeeksJoyeux.png",
+        "png_1" : "",
+		"png_2" : "",
+		"png_3" : "",
+        "png_4" : ""
+    },
+    {
+        "id": 3,
+        "titre": "Anais Photographie",
+        "miniature" : "BA_L4/miniature.jpg",
+        "desc": "Création de signature pour photo, bannière et logo. Pour une photographe indépendante.",
+        "site": "",
+        "png_0" : "BA_L4/signature_1.png",
+        "png_1" : "BA_L4/ban_noir.jpg",
+		"png_2" : "BA_L4/ban_blanc.jpg",
+		"png_3" : "BA_L4/signature_0.jpg",
+        "png_4" : "BA_L4/logo.jpg"
+    }
+]
